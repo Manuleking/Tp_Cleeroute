@@ -137,7 +137,7 @@ Les routes inexistantes renvoient une reponse **404** au format JSON defini dans
 {
   "titre": "Introduction a Node.js",
   "contenu": "Node.js est un environnement d'execution JavaScript...",
-  "auteur": "DARYL NYUMEA PEHA",
+  "auteur": "TEMGOUA MANU WYATT",
   "categorie": "Technologie full-stack / DevSecOps",
   "tags": "node,javascript,backend",
   "date": "2026-03-22"
